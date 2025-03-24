@@ -3511,6 +3511,198 @@
     "teamGithubURL": "",
     "tags": ["news_updates", "project_blog"]
   },
+   {
+    "name": "Blink Labs Blog",
+    "website": "https://medium.com/@blinklabs_io",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Cardano Stack Exchange Blog",
+    "website": "https://stackoverflow.blog/?blb=1",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Demeter Blog",
+    "website": "https://docs.demeter.run/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Fluree Blog",
+    "website": "https://flur.ee/fluree-blog/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Modulo-p Blog",
+    "website": "https://modulo-p.io/blog.html",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Orcfax Blog",
+    "website": "https://medium.com/@orcfax",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Tangocrypto Blog",
+    "website": "https://tangocrypto.medium.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "CTimelines Blog",
+    "website": "https://doc.ctimelines.io/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Gimbalabs Blog",
+    "website": "https://gimbalabs.com/blog",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "slfdrvn.io Blog",
+    "website": "https://docs.selfdriven.foundation/selfdriven-foundation-docs",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Dapp Central Blog",
+    "website": "https://www.dappcentral.net/#blog",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "The Cardano Times Blog",
+    "website": "https://thecardanotimes.medium.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Rare Evo Blog",
+    "website": "https://rareevo.io/rare-network-blog",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "zenGate Global Blog",
+    "website": "https://medium.com/@zenGate",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Everlens Blog",
+    "website": "https://everlensio.medium.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "AdaLink Blog",
+    "website": "https://medium.com/@AdaLink_io",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Clanity Blog",
+    "website": "https://blog.clanity.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Smart Places Protocol Blog",
+    "website": "https://smartplacesprotocol.medium.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Vibrant Blog",
+    "website": "https://blog.hazelnet.io/?gi=801fc861a48a",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Paideia Blog",
+    "website": "https://www.paideia.im/blog",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Skills Labs Blog",
+    "website": "https://medium.com/@skillslabsteam",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Summon Platform Blog",
+    "website": "https://medium.com/@summonplatform",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Veralidity Blog",
+    "website": "https://medium.com/@veralidity",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Wada Blog",
+    "website": "https://wada.org/blog/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Virtua Blog",
+    "website": "https://medium.com/virtuametaverse",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Cornucopias Blog",
+    "website": "https://medium.com/copiwatch",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Cardania Blog",
+    "website": "https://cardania.com/blog/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Carda Station Blog",
+    "website": "https://medium.com/@cardastation",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Eikonikos Blog",
+    "website": "https://medium.com/@eikonikos.io",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Ridotto Blog",
+    "website": "https://ridotto-io.medium.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Veritree Blog",
+    "website": "https://www.veritree.com/blog",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
+   {
+    "name": "Iagon Blog",
+    "website": "https://blog.iagon.com/",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "project_blog"]
+  },
   {
     "name": "Minswap Labs Blog",
     "website": "https://minswap-labs.medium.com/",
