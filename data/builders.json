@@ -4546,6 +4546,12 @@
     "tags": ["news_updates", "project_blog"]
   },
   {
+    "name": "Cardisa Latina",
+    "website": "https://medium.com/@cardisalatina",
+    "teamGithubURL": "",
+    "tags": ["news_updates", "spanish_lang_blog"]
+  },
+  {
     "name": "Carnada Revista Blog",
     "website": "https://issuu.com/carnadarevista",
     "teamGithubURL": "",
